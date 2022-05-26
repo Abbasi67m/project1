@@ -18,6 +18,6 @@ struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
-    //hjbjbqwfknfjnew
+    //it is a same problem 
 }
 
