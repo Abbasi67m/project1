@@ -18,6 +18,7 @@ struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
     }
-    //it is a same problem 
+    //it is a same problem
+    //it is for test pull request
 }
 
